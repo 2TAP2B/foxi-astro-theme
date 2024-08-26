@@ -1,4 +1,4 @@
-# Foxi - Astro Theme
+# Foxi - Astro Theme test
 
 Open-source Astro website template with fully responsive, customizable TailwindCSS components.
 
